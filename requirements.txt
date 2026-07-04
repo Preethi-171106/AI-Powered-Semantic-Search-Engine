@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+langchain-text-splitters
+sentence-transformers
+faiss-cpu
+numpy
+google-generativeai
+python-dotenv
+torch
+transformers
+scikit-learn
